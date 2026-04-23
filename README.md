@@ -106,4 +106,4 @@ This project demonstrates how to build a secure and scalable AWS web architectur
 
 ## Author
 
-Prateek Putta
+Prateek Kulkarni
