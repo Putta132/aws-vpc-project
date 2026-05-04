@@ -108,6 +108,7 @@ The repository includes screenshots for each major setup stage:
 -  Networking
   
    <img width="1900" height="872" alt="image" src="https://github.com/user-attachments/assets/b30c1f42-0911-4f07-8efc-013171b706b5" />
+   
   
 
 -  Security groups
@@ -124,16 +125,20 @@ The repository includes screenshots for each major setup stage:
   
    <img width="1911" height="877" alt="image" src="https://github.com/user-attachments/assets/62f1be16-88c4-4d6d-95c9-7926f5815fa1" />
 
+   
+
 -  Configuration
   
    <img width="1876" height="723" alt="image" src="https://github.com/user-attachments/assets/e2f35b54-e6d1-4433-8ab7-cb15bfb30890" />
+
+   
 
 
 -  EC2 instances
   
    <img width="1896" height="870" alt="image" src="https://github.com/user-attachments/assets/89692170-1c43-44e4-a09f-6862bd1465e7" />
 
--   Auto Scaling
+-  Auto Scaling
   
    <img width="1895" height="860" alt="image" src="https://github.com/user-attachments/assets/48edd693-41bc-4875-a3bd-7b9ccc467709" />
 
@@ -150,6 +155,8 @@ The repository includes screenshots for each major setup stage:
    <img width="1912" height="873" alt="image" src="https://github.com/user-attachments/assets/5918b487-9fb5-4c7b-8449-0bdda3dd3b55" />
  
    <img width="1918" height="877" alt="image" src="https://github.com/user-attachments/assets/c122dd24-0cc6-4a9f-8150-e6766d0e72a6" />
+
+   
 
 -  Terminal
   
