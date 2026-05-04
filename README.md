@@ -93,12 +93,54 @@ Script location: [scripts/nginx-install.sh](scripts/nginx-install.sh)
 
 The repository includes screenshots for each major setup stage:
 
-- `screenshots/VPC/` for VPC, subnets, route tables, and networking
-- `screenshots/SG/` for security group configuration
-- `screenshots/EC2 & ASG/` for EC2 instances and Auto Scaling
-- `screenshots/Launch template/` for launch template setup
-- `screenshots/Load Balancer/` for ALB and target groups
-- `screenshots/Teminal/` for terminal-based validation
+-  VPC  
+  <img width="1878" height="874" alt="image" src="https://github.com/user-attachments/assets/e87c1175-61e8-4eec-98da-2b6f1d299c81" />
+
+-  Subnets
+  <img width="1886" height="862" alt="image" src="https://github.com/user-attachments/assets/cb4e56c4-ae6f-4b84-86e1-4ac466db926a" />
+
+-  Route tables
+   <img width="1907" height="872" alt="image" src="https://github.com/user-attachments/assets/864c7ad1-8970-40b5-b8f8-761c910e8a06" />
+
+-  Networking
+  <img width="1900" height="872" alt="image" src="https://github.com/user-attachments/assets/b30c1f42-0911-4f07-8efc-013171b706b5" />
+  
+
+-  Security groups
+  
+-  Bastion-Sg
+  <img width="1907" height="868" alt="image" src="https://github.com/user-attachments/assets/c8613799-c4c0-48e3-8900-c443eb7e8596" />
+
+-  Alb-Sg
+  <img width="1890" height="870" alt="image" src="https://github.com/user-attachments/assets/53db4e88-e143-4e2f-9024-6c5f2e33febd" />
+
+-  Private instance-Sg
+- <img width="1911" height="877" alt="image" src="https://github.com/user-attachments/assets/62f1be16-88c4-4d6d-95c9-7926f5815fa1" />
+
+-  Configuration
+  <img width="1876" height="723" alt="image" src="https://github.com/user-attachments/assets/e2f35b54-e6d1-4433-8ab7-cb15bfb30890" />
+
+
+-  EC2 instances 
+  <img width="1896" height="870" alt="image" src="https://github.com/user-attachments/assets/89692170-1c43-44e4-a09f-6862bd1465e7" />
+
+-   Auto Scaling
+  <img width="1895" height="860" alt="image" src="https://github.com/user-attachments/assets/48edd693-41bc-4875-a3bd-7b9ccc467709" />
+
+-  Auto Scaling instances
+  <img width="1886" height="872" alt="image" src="https://github.com/user-attachments/assets/a7b21f7d-c31b-4977-907e-1c82ade667cf" />
+
+-  Launch template setup
+  <img width="1895" height="881" alt="image" src="https://github.com/user-attachments/assets/4eadc803-e6be-49e6-9a77-c45426d3bcc6" />
+
+-  ALB and target groups
+  <img width="1912" height="873" alt="image" src="https://github.com/user-attachments/assets/5918b487-9fb5-4c7b-8449-0bdda3dd3b55" />
+ 
+  <img width="1918" height="877" alt="image" src="https://github.com/user-attachments/assets/c122dd24-0cc6-4a9f-8150-e6766d0e72a6" />
+
+-  Terminal
+   <img width="1887" height="960" alt="image" src="https://github.com/user-attachments/assets/de2a7f5d-3670-4383-9b04-68097b9682af" />
+
 
 ## Outcome
 
@@ -107,3 +149,5 @@ This project demonstrates how to build a secure and scalable AWS web architectur
 ## Author
 
 Prateek Kulkarni
+
+⭐ If you like this project
